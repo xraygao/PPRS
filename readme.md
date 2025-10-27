@@ -1,0 +1,1 @@
+PPRS SNP weights
