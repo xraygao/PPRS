@@ -132,7 +132,6 @@ sudo apt install zstd       # Ubuntu/Debian
 brew install zstd           # macOS (Homebrew)
 ```
 
--   
     
 - To recombine on Windows, use PowerShell:
     
