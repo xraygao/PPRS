@@ -70,13 +70,8 @@ Repeat for other phenotypes as needed (e.g., IOP.txt.zst.part*, VCDR.txt.zst.par
 
 ---
 
-### **2. Decompress the** 
+### **2. Decompress the .zst file**
 
-### **.zst**
-
-###  **file**
-
-  
 
 Use the unzstd command (part of the zstd package) to decompress:
 
