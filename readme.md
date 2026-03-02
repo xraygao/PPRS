@@ -152,4 +152,4 @@ If you use these SNP weights, please cite the corresponding manuscript:
 
   
 
-> Gao X.R. “Integrating Glaucoma Endophenotypes Improves Polygenic Risk Prediction for Primary Open-Angle Glaucoma Across Ancestries” _Under Review_, 2026.
+> Gao X.R. “Integrating Glaucoma Endophenotypes Improves Polygenic Risk Prediction for Primary Open-Angle Glaucoma Across Ancestries”. MedRxiv, 2025.
