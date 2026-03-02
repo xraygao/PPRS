@@ -152,4 +152,4 @@ If you use these SNP weights, please cite the corresponding manuscript:
 
   
 
-> Gao X. _et al._ “Multi-trait Polygenic Probability Risk Score Enhances Glaucoma Prediction Across Ancestries.” _Under Review_, 2025.
+> Gao X.R. “Integrating Glaucoma Endophenotypes Improves Polygenic Risk Prediction for Primary Open-Angle Glaucoma Across Ancestries” _Under Review_, 2026.
