@@ -152,6 +152,6 @@ If you use these SNP weights, please cite the corresponding manuscript:
 
   
 
-> Gao X.R. Enhancing Glaucoma Prediction Across Ancestries: Integrating Functional Annotation into Multi-Trait Polygenic Risk Scores. Frontiers in Genetics, 2026 (in press)
+> Gao X.R. Enhancing Glaucoma Prediction Across Ancestries: Integrating Functional Annotation into Multi-Trait Polygenic Risk Scores. Frontiers in Genetics, 2026;Volume 17 - 2026. doi: 10.3389/fgene.2026.1842316.
 > 
-> Gao X.R. Multi-trait Polygenic Probability Risk Score Enhances Glaucoma Prediction Across Ancestries. MedRxiv, 2025.
+> Gao X.R. Multi-trait Polygenic Probability Risk Score Enhances Glaucoma Prediction Across Ancestries. MedRxiv, 2025 Mar 28:2025.03.27.25324762. doi: 10.1101/2025.03.27.25324762. PMID: 40196261; PMCID: PMC11974974.
